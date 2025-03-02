@@ -1,5 +1,4 @@
 {
   "API_URL": "https://sitcon.opass.app/",
-  "configURL": "https://play.sitcon.party/config.json",
-  "defaultMode": "bingo"
+  "configURL": "https://play.sitcon.party/config.json"
 }
